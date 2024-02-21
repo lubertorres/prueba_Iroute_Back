@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\prueba_Iroute_Back.props" />
+</Project>
